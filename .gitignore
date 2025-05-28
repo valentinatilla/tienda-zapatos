@@ -22,3 +22,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node (React + Vite)
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# VSCode y sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
